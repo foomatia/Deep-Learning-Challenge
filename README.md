@@ -76,6 +76,7 @@ The purpose of this analysis is to create a binary classification model using ma
 ## Summary
 
 In summary, the deep learning model was successfully developed to predict the success of organizations funded by Alphabet Soup. The model underwent optimization to achieve a target predictive accuracy higher than 75%. 
+![Screenshot 2024-01-04 at 19 05 17](https://github.com/foomatia/Deep-Learning-Challenge/assets/108195931/91053e07-4b3c-40c0-a7ad-37b31de04a6f)
 Various adjustments were made to the preprocessing steps, the neural network architecture, and other hyperparameters to enhance the model's performance.
 
 ### Recommendation for a Different Model
